@@ -1,0 +1,29 @@
+import machine
+import time
+import wifista
+import thingspeak
+
+from thingspeak import ThingSpeakAPI, Channel, ProtoHTTP
+channel_living_room = "1626377"
+field_temperature = "Temperature"
+field_humidity = "Humidity"
+
+thing_speak = ThingSpeakAPI([
+    Channel(channel_living_room , '3IN09682SQX3PT4Z', [field_temperature, field_humidity])],
+    protocol_class=ProtoHTTP, log=True)
+
+wifista.disconnect()
+wifista.connect()
+
+active_channel = channel_living_room
+temperature = 21.4
+humidity=33.7
+while True:
+    thing_speak.send(active_channel, {
+        field_temperature: temperature,
+        field_humidity: humidity
+    })
+    temperature=temperature+0.1
+    humidity=humidity+0.2
+    time.sleep(thing_speak.free_api_delay)
+    
