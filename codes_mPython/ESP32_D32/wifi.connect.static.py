@@ -1,0 +1,16 @@
+import network, time
+station = network.WLAN(network.STA_IF)
+station.active(True)
+station.disconnect()
+station.status()
+time.sleep(4)
+station.ifconfig(('192.168.1.110', '255.255.255.0', '192.168.1.1', '8.8.8.8'))
+station.connect("Livebox0-08B0", "G79ji6dtEptVTPWmZP")
+time.sleep(1)
+print("Connection successful")
+print(station.ifconfig())
+time.sleep(5)
+station.disconnect()
+station.active(False)
+print("Disconnection successful")
+    
