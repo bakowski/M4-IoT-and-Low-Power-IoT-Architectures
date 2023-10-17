@@ -13,7 +13,7 @@ This repository contains the preparaions for IoT (mPython) and Advanced IoT Adva
 This small project may be technology oriented to deepen the understanding of the selected technological aspects or
 application oriented in order to develop a complete application.
 
-**Low** and **Very Low Power** **IoT Architectures** are developed and analyzed using new design methodologies based on power profiling with PPK2.
+**Low and Very Low Power IoT Architectures** are developed and analyzed using new design methodologies based on power profiling with PPK2.
 The following is as an example of the screen capture of PPK2.
 
 
