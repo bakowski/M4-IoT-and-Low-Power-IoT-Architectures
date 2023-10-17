@@ -1,6 +1,11 @@
 # IoT Architectures including Low-Power-IoT-Architectures
 This repository contains the preparaions for IoT (mPython) and Advanced IoT Advanced Laboratories including LoRa/LoRaWAN and Low Power Architectures (C/C++).
 
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.Archi.IP.NonIP.all.png">
+</picture>
+
+
 + In the first part of the module we study simple IoT architectures on ESP32(S1) SoC programmed with microPython (3*3 hours).
 + In the second part we experiment with advanced IoT features also on ESP32(S1) programmed with C/C++ (3*3 hours).
 + Finally  we study Low Power LoRa/LoRaWAN architectures on ESP32(C3) and ASR6501/2 CubeCell DevKits (4*3 hours) 
@@ -11,5 +16,18 @@ application oriented in order to develop a complete application.
 ## Hardware
 In this module we use a large number of MCU based boards, sensors/actuators and power profiler tools.
 The example boards are:
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.HTLR.PIR.radad.board.png">
+</picture>
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/Orange_Pi_5.jpg">
+</picture>
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.ESP32C3HT.devkit.large.png">
+</picture>
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
+</picture>
+
 
 
