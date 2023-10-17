@@ -23,7 +23,7 @@ The example boards are:
  <img alt="YOUR-ALT-TEXT" src="images/Orange_Pi_5.jpg">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="images/IoT.ESP32C3HT.devkit.large.png">
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
 </picture>
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
