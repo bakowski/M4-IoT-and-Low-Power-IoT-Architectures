@@ -15,7 +15,12 @@ application oriented in order to develop a complete application.
 
 **Low and Very Low Power IoT Architectures** are developed and analyzed using new design methodologies based on power profiling with PPK2.
 The following is as an example of the screen capture of PPK2.
-
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/CC.LoRa.Send.ACK.AES.all.png">
+</picture>
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="images/CC.LoRa.Send.ACK.AES.low.png">
+</picture>
 
 
 ## Hardware
