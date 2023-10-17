@@ -26,8 +26,9 @@ The example boards are:
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.sx1280.Lilygo.devKit.png">
 </picture>
+
 
 
 
