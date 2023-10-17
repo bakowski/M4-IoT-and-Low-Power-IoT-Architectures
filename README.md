@@ -33,7 +33,7 @@ The example boards are:
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.HTLR.PIR.radad.board.png">
 </picture>
 <picture>
- <img alt="YOUR-ALT-TEXT" src="images/Orange_Pi_5.jpg">
+ <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
 </picture>
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
