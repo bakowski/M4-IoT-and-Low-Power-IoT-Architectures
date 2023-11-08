@@ -42,7 +42,7 @@ The example boards are:
  <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
 </picture>
 
-### ESP32C3+LoRa 'RISC-V' board and IoT small DevKit (Low Power + PPK2 interface)
+### ESP32C3+LoRa 'RISC-V' board and IoT DevKit (Low Power + PPK2 interface)
 
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
