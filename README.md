@@ -36,19 +36,19 @@ The example boards are:
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.HTLR.PIR.radad.board.png">
 </picture>
 
-### ESP32C3+LoRa board and IoT DevKit (Low Power + PPK2 interface)
+### ASR6601 'ARM' board and IoT DevKit (Low Power + PPK2 interface)
 
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
 </picture>
 
-### ESP32C3+LoRa board and IoT small DevKit (Low Power + PPK2 interface)
+### ESP32C3+LoRa 'RISC-V' board and IoT small DevKit (Low Power + PPK2 interface)
 
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
 </picture>
 
-### ESP32C3+LoRa board and IoT small DevKit (Low Power + PPK2 interface)
+### ESP32S3+LoRa 2.4GHz board and IoT DevKit (Low Power + PPK2 interface)
 
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.sx1280.Lilygo.devKit.png">
