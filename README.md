@@ -29,15 +29,19 @@ The following is as an example of the screen capture of PPK2.
 ## Hardware
 In this module we use a large number of MCU based boards, sensors/actuators and power profiler tools.
 The example boards are:
+
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.HTLR.PIR.radad.board.png">
 </picture>
+
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.CC.Kit.large.sensors.png">
 </picture>
+
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.ESP32C3.large.png">
 </picture>
+
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.sx1280.Lilygo.devKit.png">
 </picture>
