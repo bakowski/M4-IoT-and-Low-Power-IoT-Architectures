@@ -30,6 +30,8 @@ The following is as an example of the screen capture of PPK2.
 In this module we use a large number of MCU based boards, sensors/actuators and power profiler tools.
 The example boards are:
 
+###ESP32S+LoRa board and IoT DevKit.
+
 <picture>
  <img alt="YOUR-ALT-TEXT" src="images/IoT.Arch.HTLR.PIR.radad.board.png">
 </picture>
